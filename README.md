@@ -10,7 +10,7 @@ Description: Develop an app to help users track and manage their finances.
 - Reporting and analytics
 
 **Tech Stack:**
-- /*Frontend*/: React Native (for mobile) or React (for web)
+- *Frontend*: React Native (for mobile) or React (for web)
 - Backend: Node.js with Express or Flask
 - Database: PostgreSQL or MongoDB
 - Hosting: Heroku or AWS
